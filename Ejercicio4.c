@@ -6,7 +6,7 @@ int main() {
     float interes;
     float monto;
 
-    printf("=== Calculo de monto al final del mes ===\n");
+    printf("Calculo de monto al final del mes\n");
 
     printf("Ingrese la cantidad a invertir: ");
     scanf("%f", &capital);
