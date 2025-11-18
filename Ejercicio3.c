@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float dolares, pesos;
     float tasa = 11.96;
 
