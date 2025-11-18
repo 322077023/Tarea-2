@@ -1,7 +1,8 @@
 #include <stdio.h>
 #define PI 3.1416
 
-int main() {
+int main() 
+{
     float radio, area, circunferencia;
 
     printf("Ingresa el radio del circulo: ");
