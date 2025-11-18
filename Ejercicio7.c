@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float distancia_ida;
     int dias;
     float distancia_total;
