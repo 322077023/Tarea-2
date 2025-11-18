@@ -11,7 +11,7 @@ int main()
 
     while (i <= 10) {
         printf("%d x %d = %d\n", N, i, N * i);
-        i++;   // incrementar
+        i++;   
     }
 
     return 0;
